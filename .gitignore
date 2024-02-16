@@ -136,3 +136,4 @@ tensorboard.sh
 
 # temp
 detection/configs/mask_rcnn
+detection/configs/mask_rcnn_swin
